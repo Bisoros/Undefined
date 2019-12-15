@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">HackatonApp</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome to Mitten "</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >3 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="first_activity_text">User Accounts and predictions</string>
+    <string name="second_activity_text">Peer-to-peer Transactions</string>
+    <string name="third_activity_text">Quick NFC Payments</string>
+
+    <string name="explain_cui">Please input the IBAN of the account in which you wish to transfer money.</string>
+    <string name="explain_contsel">Please select from your accounts below which one would you like to send money from:</string>
+    <string name="explain_cat">Please input the amount you wish to send to the other party.</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="destinatary_iban">DESTINATARY IBAN</string>
+    <string name="complete_transaction">Complete transaction</string>
+    <string name="predictions">Predictions</string>
+</resources>
